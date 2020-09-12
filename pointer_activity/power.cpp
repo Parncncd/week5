@@ -16,7 +16,7 @@ void sum(long long result) {
 	}
 	printf("%d", sum);
 }
-int main() { 
+int main5() { 
 	long long num,x;
 	scanf("%lld", &num);
 	x=power(num);
