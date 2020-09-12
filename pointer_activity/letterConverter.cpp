@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
-int main() {
+int main3() {
 	char str[50];
 	char* p;
 	p = str;
