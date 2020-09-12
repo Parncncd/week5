@@ -141,6 +141,8 @@
   <ItemGroup>
     <ClCompile Include="letterConverter.cpp" />
     <ClCompile Include="palindromeOrNot.cpp" />
+    <ClCompile Include="power.cpp" />
+    <ClCompile Include="uniq.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

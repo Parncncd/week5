@@ -25,7 +25,7 @@ void isPalindrome(char *string)
     else
         printf("Not Palindrome");
 }
-int main()
+int main2()
 {
     char str[50];
     scanf("%s", str);
